@@ -107,4 +107,13 @@ ul li span:hover{
     .todo-app{
         width:70%;
     }
+    input{
+        width: 60px;
+    }
+    botton{
+        padding: 12px 17px;
+    align-items: center;
+    justify-content: center;
+    }
+}
 }
