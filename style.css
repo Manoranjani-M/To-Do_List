@@ -109,6 +109,7 @@ ul li span:hover{
     }
     input{
         width: 60px;
+        font-size: 15px;
     }
     botton{
         padding: 12px 17px;
